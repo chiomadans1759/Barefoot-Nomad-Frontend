@@ -18,3 +18,7 @@ npm start
 
 This starter uses webpack-dev-server to spin up an Express server with Hot-Reloading capability. Changes to code in `.src` should cause pages to reload.
 
+#### To run test
+
+Write test in /src/test folder 
+run `npm run test`
